@@ -1,6 +1,8 @@
 # 别把队友卖了 · BOXJOB
 
-官方免费试玩下载 · **v0.4.0**
+## [进入官网下载](https://bojuejun.github.io/boxjob-downloads/)
+
+官方免费试玩下载 · **v0.4.0** · 无需登录
 
 - [下载 Windows 版（52.2 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.4.0/BoxJob-Windows-v0.4.0.zip)
 - [下载 Mac 版（73.8 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.4.0/BoxJob-Mac-v0.4.0.zip)
