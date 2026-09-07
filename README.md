@@ -2,12 +2,13 @@
 
 ## [进入官网下载](https://bojuejun.github.io/boxjob-downloads/)
 
-官方免费试玩下载 · **v0.6.3** · 无需登录
+官方免费试玩下载 · **v0.6.4** · 无需登录
 
-- [下载 Windows 版（54.3 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.3/BoxJob-Windows-v0.6.3.zip)
-- [下载 Mac 版（75.9 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.3/BoxJob-Mac-v0.6.3.zip)
-- [完整版本说明与附件](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.3)
-- [SHA256 校验值](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.3/SHA256SUMS.txt)
+- [下载 Windows 版（54.4 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.4/BoxJob-Windows-v0.6.4.zip)
+- [下载 Mac 版（76.0 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.4/BoxJob-Mac-v0.6.4.zip)
+- [完整版本说明与附件](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.4)
+- [SHA256 校验值](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.4/SHA256SUMS.txt)
+- [保留的旧版 0.6.3](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.3)
 - [保留的旧版 0.6.2](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.2)
 - [保留的旧版 0.6.1](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.1)
 - [保留的旧版 0.6.0](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.0)
@@ -20,8 +21,8 @@
 
 本仓库只提供下载入口与发布附件，不包含游戏开发源码。使用说明与素材许可见游戏包。
 
-v0.6.3：四人组队、按键语音、共享探索地图、黑暗开关灯与60秒夜视、11件趣味货物和清洁桶、按住 Alt / R3 自由观察。入仓才开始计时，精简菜单与 HUD，改善移动、拾取和关押视角。保安值班、敌队及完整押送救援尚未加入。
+v0.6.4：独立柜门与柜内搜货、真实押送登车和沿途救援、自带肩灯与工具轮盘；首页统一按钮，单人/组队分步进入，设置分类并固定保存/返回。保留 1–4 人同网组队、探索地图和默认关闭的按键语音。
 
-以下为 v0.6.3 游戏实机画面。
+以下为 v0.6.4 游戏实际首页。
 
-![游戏实机画面](v063-gameplay.png)
+![游戏实机画面](v064-menu-home.png)
