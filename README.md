@@ -2,16 +2,21 @@
 
 ## [进入官网下载](https://bojuejun.github.io/boxjob-downloads/)
 
-官方免费试玩下载 · **v0.5.0** · 无需登录
+官方免费试玩下载 · **v0.6.0** · 无需登录
 
-- [下载 Windows 版（52.8 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.5.0/BoxJob-Windows-v0.5.0.zip)
-- [下载 Mac 版（74.4 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.5.0/BoxJob-Mac-v0.5.0.zip)
-- [完整版本说明与附件](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.5.0)
-- [SHA256 校验值](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.5.0/SHA256SUMS.txt)
+- [下载 Windows 版（53.2 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.0/BoxJob-Windows-v0.6.0.zip)
+- [下载 Mac 版（74.8 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.0/BoxJob-Mac-v0.6.0.zip)
+- [完整版本说明与附件](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.0)
+- [SHA256 校验值](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.0/SHA256SUMS.txt)
+- [保留的旧版 0.5.0](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.5.0)
 - [保留的旧版 0.4.0](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.4.0)
 
 下载后完整解压到新文件夹，保留旧版，再打开游戏。GitHub 自动提供的 **Source code** 压缩包不是游戏。
 
-当前支持局域网双人试玩；异地联机公共服务尚未配置。旧版首次升级到 0.5.0 需手动下载。0.5.0 已接入 GitHub 签名更新源，下载会核对签名和哈希，网络失败保留旧版。Mac 未公证包会被系统阻止自动替换；Windows 真机安装及实体手柄尚未实测。请遵循系统和设备管理员的正常提示。
+当前支持局域网双人试玩；异地联机公共服务尚未配置。0.4.0 及更早版本升级需手动下载。0.5.0 起已接入 GitHub 签名更新源，下载会核对签名和哈希，网络失败保留旧版。Mac 未公证包会被系统阻止自动替换；Windows 真机安装及实体手柄尚未实测。请遵循系统和设备管理员的正常提示。
 
 本仓库只提供下载入口与发布附件，不包含游戏开发源码。使用说明与素材许可见游戏包。
+
+夜间光影 / 动态猫 / 被捕可救援 / 无边框全屏。
+
+![游戏实机画面](v060-shelf-on.png)
