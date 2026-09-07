@@ -2,12 +2,13 @@
 
 ## [进入官网下载](https://bojuejun.github.io/boxjob-downloads/)
 
-官方免费试玩下载 · **v0.6.0** · 无需登录
+官方免费试玩下载 · **v0.6.1** · 无需登录
 
-- [下载 Windows 版（53.2 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.0/BoxJob-Windows-v0.6.0.zip)
-- [下载 Mac 版（74.8 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.0/BoxJob-Mac-v0.6.0.zip)
-- [完整版本说明与附件](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.0)
-- [SHA256 校验值](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.0/SHA256SUMS.txt)
+- [下载 Windows 版（53.2 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.1/BoxJob-Windows-v0.6.1.zip)
+- [下载 Mac 版（74.8 MB）](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.1/BoxJob-Mac-v0.6.1.zip)
+- [完整版本说明与附件](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.1)
+- [SHA256 校验值](https://github.com/BOJUEJUN/boxjob-downloads/releases/download/v0.6.1/SHA256SUMS.txt)
+- [保留的旧版 0.6.0](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.6.0)
 - [保留的旧版 0.5.0](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.5.0)
 - [保留的旧版 0.4.0](https://github.com/BOJUEJUN/boxjob-downloads/releases/tag/v0.4.0)
 
@@ -17,6 +18,8 @@
 
 本仓库只提供下载入口与发布附件，不包含游戏开发源码。使用说明与素材许可见游戏包。
 
-夜间光影 / 动态猫 / 被捕可救援 / 无边框全屏。
+v0.6.1：自动查找同网房间、三档难度、角色被动、可旋转选人预览。两位玩家请使用相同版本。
+
+以下为保留的 v0.6.0 游戏实机画面。
 
 ![游戏实机画面](v060-shelf-on.png)
